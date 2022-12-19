@@ -1,3 +1,4 @@
+# **Hello**
 # react-sidebar
-یک سایدبار ساده با استفاده از 
-react
+> Simple Sidebar With React
+> یک سایدبار ساده با استفاده از react 
